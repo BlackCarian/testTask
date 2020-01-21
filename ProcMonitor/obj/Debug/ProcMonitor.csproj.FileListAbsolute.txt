@@ -1,0 +1,11 @@
+C:\Users\Korol_A\source\repos\ProcMonitor\ProcMonitor\bin\Debug\ProcMonitor.exe.config
+C:\Users\Korol_A\source\repos\ProcMonitor\ProcMonitor\bin\Debug\ProcMonitor.exe
+C:\Users\Korol_A\source\repos\ProcMonitor\ProcMonitor\bin\Debug\ProcMonitor.pdb
+C:\Users\Korol_A\source\repos\ProcMonitor\ProcMonitor\obj\Debug\ProcMonitor.csproj.CoreCompileInputs.cache
+C:\Users\Korol_A\source\repos\ProcMonitor\ProcMonitor\obj\Debug\ProcMonitor.exe
+C:\Users\Korol_A\source\repos\ProcMonitor\ProcMonitor\obj\Debug\ProcMonitor.pdb
+C:\Users\Korol_A\source\repos\ProcMonitor\ProcMonitor\bin\Debug\NLog.config
+C:\Users\Korol_A\source\repos\ProcMonitor\ProcMonitor\bin\Debug\NLog.dll
+C:\Users\Korol_A\source\repos\ProcMonitor\ProcMonitor\bin\Debug\NLog.xml
+C:\Users\Korol_A\source\repos\ProcMonitor\ProcMonitor\obj\Debug\ProcMonitor.csprojAssemblyReference.cache
+C:\Users\Korol_A\source\repos\ProcMonitor\ProcMonitor\obj\Debug\ProcMonitor.csproj.CopyComplete
