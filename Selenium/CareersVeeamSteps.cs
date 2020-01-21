@@ -14,13 +14,10 @@ namespace Selenium
     class CareersVeeamSteps
     {
         IPageObject _pageObject;
-        IWebDriver _driver;
 
-        public CareersVeeamSteps(IPageObject pageObject,
-                                 IWebDriver driver)
+        public CareersVeeamSteps(IPageObject pageObject)
         {
             _pageObject = pageObject;
-            _driver = driver;
         }
 
         public void ChooseCountry(string country)

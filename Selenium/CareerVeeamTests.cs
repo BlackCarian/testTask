@@ -20,7 +20,7 @@ namespace Selenium
         public void SetupTest()
         {
             pageObject = new VeeamPageObject(driver);
-            steps = new CareersVeeamSteps(pageObject, driver);
+            steps = new CareersVeeamSteps(pageObject);
             driver.Navigate().GoToUrl(@"https://careers.veeam.com/");
             driver.Manage().Window.Maximize();
         }
